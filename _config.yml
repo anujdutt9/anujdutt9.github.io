@@ -1,12 +1,12 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
+name: 'Anuj Dutt'
+description: 'Machine Learning Researcher'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Boston, USA. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
@@ -39,8 +39,8 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Projects
+    url: /projects
   - text: Contact Me
     url: /contact
 
