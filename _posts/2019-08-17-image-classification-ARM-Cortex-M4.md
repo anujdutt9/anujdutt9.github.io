@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Learning JavaScript Design Patterns'
-tags: [JavaScript, Tips]
-featured_image_thumbnail:
-featured_image: assets/images/posts/2019/patterns.jpeg
+title: 'Image Classification on ARM Cortex-M4 Processor'
+tags: [TensorFlow, Embedded-ML]
+featured_image_thumbnail: assets/images/posts/2019/embedded-ML.jpg
+featured_image: assets/images/posts/2019/embedded-ML.jpg
 featured: true
 hidden: true
 ---

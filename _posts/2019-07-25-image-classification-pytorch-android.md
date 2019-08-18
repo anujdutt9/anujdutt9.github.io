@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Choosing the Best Front-end Framework'
-tags: [JavaScript, Tips]
-featured_image_thumbnail:
-featured_image: assets/images/posts/2019/desk.jpg
+title: 'Image Classification: From PyTorch to Android'
+tags: [PyTorch, TFLite, Android]
+featured_image_thumbnail: assets/images/posts/2019/android-tf.jpg
+featured_image: assets/images/posts/2019/android-tf.jpg
 featured: true
 hidden: true
 ---

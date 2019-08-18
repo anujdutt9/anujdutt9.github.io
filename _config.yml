@@ -8,30 +8,30 @@ author:
   image: 'authorimage.jpg'
   greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Boston, USA. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
-baseurl: 
-production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
+baseurl:
+production_url: https://anujdutt9.github.com/
+disqus: 'anujdutt9-github-io'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 # Contact form setings
-email: youremail@email.com
+email: anuj.dutt9@gmail.com
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
+twitter: 'anujdutt92'
+# facebook: 'username'
+github: 'anujdutt9'
+# codepen: 'username'
+# dribbble: 'username'
+medium: '@anuj.dutt9'
+# instagram: 'username'
+# pinterest: 'username'
 linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+# producthunt: '@username'
+# quora: 'username'
 
 # Navigation
 navigation:
