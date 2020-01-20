@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Boston, USA. It’s nice to meet you."
+  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Boston, USA. Welcome to my Blog."
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://anujdutt9.github.com/
@@ -17,7 +17,7 @@ ga_analytics:
 
 # Contact form setings
 email: anuj.dutt9@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+#contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
@@ -29,7 +29,7 @@ github: 'anujdutt9'
 medium: '@anuj.dutt9'
 # instagram: 'username'
 # pinterest: 'username'
-linkedin: 'username'
+linkedin: 'anuj-dutt9'
 # producthunt: '@username'
 # quora: 'username'
 

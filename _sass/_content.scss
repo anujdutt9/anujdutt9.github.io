@@ -214,6 +214,10 @@
   text-transform: uppercase;
 }
 
+.page__content {
+  text-align: justify;
+}
+
 /* Error pages */
 .error-template {
   background-color: $gray-darkest;
