@@ -2,8 +2,10 @@
 layout: post
 title: 'Intro to Machine Learning: Linear Regression from Scratch'
 tags: [ ML ]
-featured_image_thumbnail:
-featured_image:
+featured_image_thumbnail: assets/images/posts/2018/linear-regression.jpeg
+featured_image: assets/images/posts/2018/linear-regression.jpeg
+featured: true
+hidden: true
 ---
 
 **Hello Everyone !!**

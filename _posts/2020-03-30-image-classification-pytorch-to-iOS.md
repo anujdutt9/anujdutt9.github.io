@@ -4,7 +4,7 @@ title: 'Image Classification: From PyTorch to iOS'
 tags: [PyTorch, CoreML, iOS]
 featured_image_thumbnail: assets/images/posts/2020/iOS-CoreML.png
 featured_image: assets/images/posts/2020/iOS-CoreML.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
