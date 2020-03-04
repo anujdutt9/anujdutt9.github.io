@@ -2,8 +2,8 @@
 layout: post
 title: 'Image Classification: From PyTorch to Android'
 tags: [PyTorch, TFLite, Android]
-featured_image_thumbnail: assets/images/posts/2019/android-tf.jpg
-featured_image: assets/images/posts/2019/android-tf.jpg
+featured_image_thumbnail: assets/images/posts/2020/mobile.jpeg
+featured_image: assets/images/posts/2020/mobile.jpeg
 featured: true
 hidden: true
 ---

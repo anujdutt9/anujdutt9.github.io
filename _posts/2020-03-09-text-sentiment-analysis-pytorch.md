@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Image Classification: From PyTorch to iOS'
-tags: [PyTorch, CoreML, iOS]
-featured_image_thumbnail: assets/images/posts/2019/iOS-CoreML.png
-featured_image: assets/images/posts/2019/iOS-CoreML.jpg
+title: 'Text Sentiment Analysis using RNN with PyTorch'
+tags: [PyTorch, Sentiment-Analysis]
+featured_image_thumbnail: assets/images/posts/2020/text-sentiment.jpeg
+featured_image: assets/images/posts/2020/text-sentiment.jpeg
 featured: true
 hidden: true
 ---
