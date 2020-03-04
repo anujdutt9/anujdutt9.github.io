@@ -17,6 +17,12 @@ In this post, we will start writing the code for everything that we have learnt 
 
 You can find the Python code file and the IPython notebook for this tutorial [here](https://github.com/anujdutt9/Machine-Learning/tree/master/Linear%20Regression).
 
+<!-- ********************************************************************************** -->
+
+<!-- {% include Jupyter-Notebooks/LinearRegression.html %} -->
+
+<!-- ********************************************************************************** -->
+
 Great work on completing this tutorial, let's move to the next tutorial in series, [Introduction to Machine Learning: Linear Regression Code from Scratch]().
 
 **For more projects and code, follow me on [Github](https://github.com/anujdutt9).**
