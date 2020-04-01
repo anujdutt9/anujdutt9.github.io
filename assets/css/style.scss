@@ -30,3 +30,10 @@
 @import "content";
 @import "footer";
 @import "media-queries";
+
+//$background: #F0EFEF;
+$background: #FFFFFF;
+
+.highlight {
+  background-color: $background;
+}

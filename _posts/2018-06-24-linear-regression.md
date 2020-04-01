@@ -2,6 +2,7 @@
 layout: post
 title: 'Intro to Machine Learning: Linear Regression'
 tags: [ ML ]
+mathjax: true
 featured_image_thumbnail:
 featured_image:
 ---
@@ -36,7 +37,7 @@ If we see the Wikipedia definition for Linear Regression shown above, we can see
 
 So, lets go back to school. We know that a straight line with one variable can be represented by the equation:
 
-**y = mx + b**
+**$y = m \times x + b$**
 
 **Linear Regression with One Variable** uses this same equation to get a best fit line for the given data points. We can get the values of x and y from input data as we are given the data points and hence, plot a straight line.
 
@@ -46,7 +47,7 @@ Before moving to calculation of error, mean and bias, let's also have a look at 
 
 As the name tells, the equation for a straight line has multiple variables. The equation for one variable can be written for multiple variables as:
 
-**y = m1x1 + m2x2 + m3x3 + b**
+**$y = m1 \times x1 + m2 \times x2 + m3 \times x3 + b$**
 
 where **m1, m2, m3** are the coefficients, **x1, x2, x3** are the variables and **b** is the bias. The aim in this remains the same i.e. to get a "Best Fit Line" using the data points.
 

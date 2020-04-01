@@ -50,6 +50,10 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
 
 # Pagination
 paginate: 5
@@ -60,8 +64,16 @@ permalink: /:title
 
 # Other
 markdown: kramdown
+highlighter: rouge
 
 # Sass
 sass:
   sass_dir: _sass
   style: compressed
+  
+
+# TEST
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge

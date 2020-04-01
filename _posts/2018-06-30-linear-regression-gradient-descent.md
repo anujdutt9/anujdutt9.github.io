@@ -2,6 +2,7 @@
 layout: post
 title: 'Intro to Machine Learning: Gradient Descent'
 tags: [ ML ]
+mathjax: true
 featured_image_thumbnail:
 featured_image:
 ---
@@ -65,17 +66,17 @@ Till now we have seen the parts of Gradient Descent. Now let's calculate the Gra
 
 The Cost Function is given as:
 
-**Cost Function [J] = sum(y_hat-y)^2**
+**Cost Function [J] = $\sum{\texttt{(y\_hat-y)}}^2$**
 
 where,
 
-**y_hat = mx + b**
+**$\texttt{y_hat} = m \times x + b$**
 
 where m and b are the calculated slope and the bias values.
 
 Putting these values into the Cost Function, we get:
 
-**Cost Function = (1/2n) ((mx + b) - y)^2**
+**$Cost Function = \frac{1}{2n} \times ((m \times x + b) - y)^2$**
 
 Here, we have added (1/2n) to simplify the derivatives as taking derivative of x^2 results in 2x and dividing by 2 gives the value of x. Here, n is the number of input data points.
 
@@ -95,13 +96,13 @@ One quick Note. Do you remember the definition of Gradient Descent ?? It said th
 
 Now, To update the value of m, the equation is:
 
-**m := m - alpha * (dJ/dm)**
+**$m := m - \alpha \times \frac{dJ}{dm}$**
 
 and the equation to update b is given as:
 
-**b := b - alpha * (dJ/db)**
+**$b := b - \alpha \times \frac{dJ}{db}$**
 
-where, **alpha** is called the **Learning Rate**.
+where, **$\alpha$** is called the **Learning Rate**.
 
 You might think that why I have used ":=" instead of "=" in the update equations for m and b. Well, think of it this way. := means update the value after executing both the derivatives. But why ?? Because, if we update m before updating b, then we will not get the same value as the equation has now changed.
 
