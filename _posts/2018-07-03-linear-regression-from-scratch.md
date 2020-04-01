@@ -314,7 +314,7 @@ ax.plot(X,y_hat)
 ax.set_title('Line fit to Input Data')
 ```
  
-![png]({{ BASE_PATH }}assets/images/posts/2018/Linear_Regression/linearregression_18_1.png) 
+![png](assets/images/posts/2018/Linear_Regression/linearregression_18_1.png) 
 
  
 ### Step-7: Find the Squared Error and R-Squared Error
@@ -430,7 +430,7 @@ ax.plot(X,y_hat)
 ax.set_title('Testing Line for New Data')
 ```
  
-![png]({{ BASE_PATH }}assets/images/posts/2018/Linear_Regression/linearregression_30_1.png) 
+![png](assets/images/posts/2018/Linear_Regression/linearregression_30_1.png) 
 
  
 The above plot shows that, for new data points i.e. new values of "X", this plot
