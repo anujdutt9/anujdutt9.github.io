@@ -430,7 +430,7 @@ ax.plot(X,y_hat)
 ax.set_title('Testing Line for New Data')
 ```
  
-![png](/assets/images/posts/2018/Linear_Regression/linearregression_30_1.png) 
+![BestFitLine](/assets/images/posts/2018/Linear_Regression/LinearRegression_30_1.png) 
 
  
 The above plot shows that, for new data points i.e. new values of "X", this plot
