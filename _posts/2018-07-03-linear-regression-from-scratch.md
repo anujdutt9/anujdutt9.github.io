@@ -18,7 +18,6 @@ In this post, we will start writing the code for everything that we have learnt 
 
 You can find the Python code file and the IPython notebook for this tutorial [here](https://github.com/anujdutt9/Machine-Learning/tree/master/Linear%20Regression).
 
-<<<<<<< HEAD
 <!--{% gist 8636cf68ff836219c5bb4287cbff60cc %}-->
 
 <!--<p><iframe src="assets/Jupyter-Notebooks/LinearRegression.html" width="5000" height="5900"></iframe></p>-->
@@ -436,13 +435,6 @@ ax.set_title('Testing Line for New Data')
  
 The above plot shows that, for new data points i.e. new values of "X", this plot
 can accurately predict the values of "y". 
-=======
-<!-- ********************************************************************************** -->
-
-<!-- {% include Jupyter-Notebooks/LinearRegression.html %} -->
-
-<!-- ********************************************************************************** -->
->>>>>>> 8f18113f59a56295b6927ad7fbaa86a2aa9cc2b2
 
 Great work on completing this tutorial, let's move to the next tutorial in series, [Introduction to Machine Learning: Linear Regression Code from Scratch]().
 
