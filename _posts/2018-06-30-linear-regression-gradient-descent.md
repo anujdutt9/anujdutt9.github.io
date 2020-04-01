@@ -46,7 +46,7 @@ Hence, the aim of Gradient Descent here is to find the best values of m and b fo
 
 But, wait a minute. We have been talking about the Cost Function and minimizing it a lot. But what is the Cost Function ?? Do you remember the Squared Error in the last post which was given as:
 
-**Squared_Error = sum(y_hat-y)^2**
+**$\texttt{Squared_Error} = \sum{\texttt{y\_hat}-y)}^2$**
 
 where, **y_hat** is the predicted values using m and b and y is the actual value. This value is divided by 2n to make the derivative easier.
 
