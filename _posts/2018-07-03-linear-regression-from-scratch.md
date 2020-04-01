@@ -246,7 +246,7 @@ ax.set_ylabel('y')
 ax.set_title('Input Data Scatter Plot')
 ```
  
-![png]({{ BASE_PATH }}assets/images/posts/2018/Linear_Regression/linearregression_12_1.png) 
+![ScatterPlot](/assets/images/posts/2018/Linear_Regression/LinearRegression_12_1.png) 
 
  
 From the above plot, we can see that the data is pretty linear except for 1 or 2
@@ -314,7 +314,7 @@ ax.plot(X,y_hat)
 ax.set_title('Line fit to Input Data')
 ```
  
-![png](/assets/images/posts/2018/Linear_Regression/linearregression_18_1.png) 
+![LineofBestFit](/assets/images/posts/2018/Linear_Regression/LinearRegression_18_1.png) 
 
  
 ### Step-7: Find the Squared Error and R-Squared Error
