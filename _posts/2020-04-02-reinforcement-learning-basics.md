@@ -15,7 +15,7 @@ So, let’s get started.
 
 >Reinforcement Learning is a subfield of Machine Learning that deals with automatic learning of optimal decisions over time.
 
-Let’s understand this with the help of an example and also see what is the difference between this and the other fields of machine learning and why they might not be applicable.
+Let’s understand this with the help of an example and also see what is the difference between this and the other fields of machine learning.
  
 Let us consider the game of chess. We want to train a system/model to be able to learn the rules of chess, as well as play it, just like a professional. In this case, we cannot make use of  supervised learning techniques as there is no correct label w.r.t image of the current state of the chessboard. In the game of chess, you either win or lose the game and that could take a lot of moves. Hence, <mark>a label does not exist for every move to classify the images into a win or a loss.</mark>
 
