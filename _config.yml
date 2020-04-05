@@ -62,6 +62,9 @@ paginate_path: /page:num/
 # Permalinks
 permalink: /:title
 
+# Use tags index page and make tags on each post clickable
+link-tags: true
+
 # Other
 markdown: kramdown
 highlighter: rouge
