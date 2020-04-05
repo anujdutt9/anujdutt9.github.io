@@ -1,6 +1,7 @@
 # Site setings
 name: 'Anuj Dutt'
 description: 'Machine Learning Researcher'
+title: 'The Art of Artificial Intelligence'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
