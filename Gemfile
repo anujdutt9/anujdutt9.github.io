@@ -12,5 +12,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-gist'
-  gem "github-pages"
+  gem 'github-pages'
 end
