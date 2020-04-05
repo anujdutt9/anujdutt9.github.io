@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-gist'
   gem 'github-pages'
+  gem "activesupport", ">= 4.1.11"
 end
