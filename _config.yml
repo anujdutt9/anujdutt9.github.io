@@ -42,6 +42,8 @@ navigation:
     url: /about
   - text: Projects
     url: /projects
+  - text: Talks/Seminars
+    url: /talks
   - text: Contact Me
     url: /contact
 
