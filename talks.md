@@ -12,4 +12,10 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 * Presented at the <a href="https://www.meetup.com/Boston_New_Technology/events/261104328/">AI Talks: Use Cases in Machine Learning</a> meetup hosted by the <b>Boston New Technology</b> group at Cambridge, MA in May, 2019 on the topic <b>Deploying Machine Learning Models Efficiently on Mobile Devcies & the Future ahead</b>. <a href="https://drive.google.com/file/d/1Grab0H-_qRi6bIKOf7zmQVL3kELawuQW/view?usp=sharing">Slide Deck</a>
 
+* Presented on the topic <b>The Future of AI</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in October, 2020. <a href="https://docs.google.com/presentation/d/1os4citoKOnFNHDuJdbUdjNlZgcZm9Q9nfECnu0Qwzu4/edit?usp=sharing">Slide Deck</a>
+
+# Co-Organizer
+
+<a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TensorFlow User Group Chandigarh</a>
+
 <b>Note:</b> *If you are interested in inviting me as a speaker or discussing any topic in general, please feel free to reach out to me by dropping an email at <a href="anuj.dutt9@gmail.com">anuj.dutt9@gmail.com</a> or through the contact form.*
