@@ -14,6 +14,8 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 * Presented on the topic <b>The Future of AI</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in October, 2020. <a href="https://docs.google.com/presentation/d/1os4citoKOnFNHDuJdbUdjNlZgcZm9Q9nfECnu0Qwzu4/edit?usp=sharing">Slide Deck</a>
 
+* Presented on the topic <b>Deploying TFLite Models with Flutter</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in December, 2020. <a href="https://docs.google.com/presentation/d/1x1Qc0bX46Zv9M156xrtCaSjLrskJKyea4CqK51hxdR8/edit?usp=sharing">Slide Deck</a>
+
 # Co-Organizer
 
 <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TensorFlow User Group Chandigarh</a>
