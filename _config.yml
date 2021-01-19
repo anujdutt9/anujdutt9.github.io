@@ -32,8 +32,8 @@ medium: '@anuj.dutt9'
 # pinterest: 'username'
 linkedin: 'anuj-dutt9'
 # producthunt: '@username'
-# quora: 'username'
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=userID'}
+quora: 'username'
+google-scholar: 'anujdutt9'
 
 # Navigation
 navigation:
