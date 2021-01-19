@@ -33,6 +33,7 @@ medium: '@anuj.dutt9'
 linkedin: 'anuj-dutt9'
 # producthunt: '@username'
 # quora: 'username'
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=userID'}
 
 # Navigation
 navigation:
