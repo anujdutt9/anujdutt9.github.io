@@ -16,6 +16,12 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 * Presented on the topic <b>Deploying TFLite Models with Flutter</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in December, 2020. <a href="https://docs.google.com/presentation/d/1x1Qc0bX46Zv9M156xrtCaSjLrskJKyea4CqK51hxdR8/edit?usp=sharing">Slide Deck</a>, <a href="https://github.com/anujdutt9/TFUG_Projects">GitHub repository</a>.
 
+# Patents
+
+* <a href="https://patentimages.storage.googleapis.com/75/41/10/47a7d2de9c3291/US20200329297A1.pdf">Automated Control of Noise Reduction or Noise Masking</a>
+
+* <a href="https://patentimages.storage.googleapis.com/57/43/54/14cb2abd8a2641/US10743165.pdf">Automatically pairing a Bluetooth low energy (BLE) device to a user device</a>
+
 # Co-Organizer
 
 <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TensorFlow User Group Chandigarh</a>
