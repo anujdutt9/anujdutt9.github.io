@@ -7,7 +7,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Boston, USA. Welcome to my Blog."
+  greetings: "Hi there! My name is Anuj Dutt. I'm a machine learning researcher, speaker and a musician based in Cupertino, California, USA. Welcome to my Blog."
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://anujdutt9.github.com/
